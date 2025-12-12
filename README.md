@@ -9,3 +9,8 @@ Alternatively, you can run on your local computer.  To do so, once you have inst
 **jupyter notebook IC_Alba.ipynb**
 
 Be sure to remove any suffix that is not *.ipynb* on the notebook file you download.  For example, some browsers will by default add a *.txt* to the downloaded file so that it has suffix *.ipynb.txt*.  Remove the *.txt* before running.
+
+**Wiki**
+For broader context, theoretical background, and detailed explanations, please refer to the project Wiki:  
+https://github.com/Alba-Rico-16/project_rad_proc_25/wiki
+
